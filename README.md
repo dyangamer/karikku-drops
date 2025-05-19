@@ -34,7 +34,8 @@ The site is designed  BY DHYAN|KPVP with a clean, green-themed layout to reflect
   <div class="container">
     <h1>🌿 Welcome to Our Server 🌿</h1>
     <div class="info">
-      <p><strong>Server IP:</strong> <span id="server-ip">your.server.ip.here</span></p>
+      <p><strong>Server IP    soon 
+      :</strong> <span id="server-ip">your.server.ip.here</span></p>
       <p><strong>Join our https://discord.gg/rhcs9krr  Discord:</strong> <a href="https://discord.gg/yourdiscord" target="_blank">Click here</a></p>
     </div>
   </div>
